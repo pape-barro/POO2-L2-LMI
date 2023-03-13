@@ -20,4 +20,4 @@
  * aucun (Quelques notions en POO).
  
  # ``` Contenu: ```
- 1. [`support de cours`]() - ``` du 07 au 28 Mars 2023 ``` ;
+ 1. [`support de cours`](https://github.com/pape-barro/POO2-L2-LMI/blob/main/cours-pp1.pdf) - ``` du 07 au 28 Mars 2023 ``` ;
